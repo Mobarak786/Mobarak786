@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Mobarak786
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning B. Tech CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mobarak Ansary. 
+- 👀 FullStack web developer especially
+ MERN Stack developer. 
 
-<!---
-Mobarak786/Mobarak786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I am 2022 B.tech graduate is CSE. 
+
+- 💞️ I’m updating myself every second as a coder 
+And looking for best job opportunities. 
+
+- 📫 I have more than 1 years of experience in web
+Development field. 
+
+- 🤠In this git repository I will upload my free coding skill 
+And lots of interesting projects. 
+
