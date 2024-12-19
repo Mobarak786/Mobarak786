@@ -1,15 +1,13 @@
-- 👋 Hi, I’m Mobarak Ansary. 
-- 👀 FullStack web developer especially
- MERN Stack developer. 
+- 👋 Hi, I’m Mobarak Ansary a FullStack
+web developer specialized in React,Html, Tailwind css, Nodejs, Express js, MongoDB, Git, Docker and much more.
 
-- 🌱 I am 2022 B.tech graduate is CSE. 
+key point:
+- Frontend expert
+- Backend expert
+- Blockchain expert
+- Able to write smart contracts using Solidity web3. 
 
-- 💞️ I’m updating myself every second as a coder 
-And looking for best job opportunities. 
+- 💞️ I’m updating myself every second as a coder. 
 
-- 📫 I have more than 1 years of experience in web
-Development field. 
-
-- 🤠In this git repository I will upload my free coding skill 
-And lots of interesting projects. 
+Highest Education : computer science graduate (b.tech) . 
 
