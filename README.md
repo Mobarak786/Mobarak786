@@ -1,13 +1,13 @@
 ### My Bio
 
 👋 Hi, I’m Mobarak Ansary a FullStack
-web developer specialized in React,Html, Tailwind css, Nodejs, Express js, MongoDB, Git, Docker and much more.
+web developer specialized in JavaScript, Solidity, React js ,Html, Tailwind css, Node js, Express js, MongoDB, Git, Docker and AI 
 
 **key point:**
 - Frontend expert
 - Backend expert
 - Blockchain expert
-- Able to write smart contracts using Solidity web3. 
+- Smart contrac auditor/Solidity web3. 
 
  💞️ I’m updating myself every second as a coder. 
 
