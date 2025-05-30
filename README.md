@@ -7,7 +7,7 @@ web developer specialized in JavaScript, Solidity, React js ,Html, Tailwind css,
 - Frontend expert
 - Backend expert
 - Blockchain expert
-- Smart contrac auditor/Solidity web3. 
+- Smart contract auditor/Solidity web3. 
 
  💞️ I’m updating myself every second as a coder. 
 
